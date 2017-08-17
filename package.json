@@ -1,0 +1,28 @@
+{
+  "name": "await-sleep",
+  "version": "0.0.1",
+  "description": "Blocking sleep/delay with async/await",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sqren/await-sleep.git"
+  },
+  "keywords": [
+    "sleep",
+    "async",
+    "await",
+    "promise",
+    "delay",
+    "wait",
+    "blocking"
+  ],
+  "author": "Søren Louv <sorenlouv@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/sqren/await-sleep/issues"
+  },
+  "homepage": "https://github.com/sqren/await-sleep#readme",
+  "license": "ISC"
+}
