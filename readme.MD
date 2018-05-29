@@ -5,7 +5,7 @@ Blocking delay with async/await
 ## Installation
 
 ```bash
-npm i --save await-sleep
+npm install --save await-sleep
 ```
 
 ## Usage
