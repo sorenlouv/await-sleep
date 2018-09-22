@@ -1,6 +1,6 @@
 # await-sleep
 
-Blocking delay with async/await
+Simple sleep with async/await
 
 ## Installation
 
