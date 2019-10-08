@@ -11,7 +11,7 @@ npm install --save await-sleep
 ## Usage
 
 ```js
-import * as sleep from 'await-sleep
+import * as sleep from 'await-sleep';
 
 async function myAsyncFunction() {
   console.time('Sleeping');
